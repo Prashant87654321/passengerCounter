@@ -1,1 +1,1 @@
-link to site https://app.netlify.com/sites/counter1234/
+link to site https://counter1234.netlify.app/
